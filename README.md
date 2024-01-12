@@ -33,8 +33,6 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yan
 
 4. **Laporan:**
    - Hasilkan laporan transaksi berdasarkan bulan atau tahun tertentu.
-
-
 ## Informasi Pembuat
 Nama: Aditya Bani Isro  
 NIM: 312010134  
