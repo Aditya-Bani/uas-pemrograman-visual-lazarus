@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yang terintegrasi serta memenuhi syarat mengikut Ujian Tengah Semester pada Matakuliah Pemrograman Visual. Aplikasi ini mencakup fungsionalitas dasar untuk mengelola data master, transaksi penjualan, dan laporan transaksi. Proyek ini memiliki menu-menu utama sebagai berikut:
+Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yang terintegrasi. Aplikasi ini mencakup fungsionalitas dasar untuk mengelola data master, transaksi penjualan, dan laporan transaksi. Proyek ini memiliki menu-menu utama sebagai berikut:
 
 ### 1. File
    - **Login:** Memungkinkan pengguna untuk masuk ke dalam aplikasi.
@@ -19,7 +19,7 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yan
 
 ### 4. Laporan
    - **Report Laporan Transaksi:** Menghasilkan laporan transaksi yang dapat dipilih berdasarkan bulan atau tahun.
-   - 
+
 ## Penggunaan Aplikasi
 
 1. **Login:**
@@ -35,11 +35,13 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yan
    - Hasilkan laporan transaksi berdasarkan bulan atau tahun tertentu.
 
 ## Informasi Pembuat
-Nama: Aditya Bani Isro  
-NIM: 312010134  
-Kelas: TI.20.A.RPL-1
-Dosen Pengampu Matakuliah : Agung Nugroho, S.Kom., M.Kom.
+- Nama: Aditya Bani Isro  
+- NIM: 312010134  
+- Kelas: TI.20.A.RPL-1
 
 ## Video Demonstrasi
-Tonton video demo aplikasi di YouTube: [Proses Upload](https://www.youtube.com/watch?v=yourvideoid)
+
+Tonton video demo aplikasi di YouTube: [Link Video Proses Upload](https://www.youtube.com/watch?v=yourvideoid)
+
 ---
+
