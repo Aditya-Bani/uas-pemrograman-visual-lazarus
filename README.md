@@ -41,7 +41,7 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yan
 
 ## Video Demonstrasi
 
-Tonton video demo aplikasi di YouTube: [Link Video Proses Upload](https://youtu.be/q01_jghJfjw?si=_i9NmWhQx8hoeVcm)
+Tonton video demo aplikasi di YouTube: [Link Demo Video](https://youtu.be/q01_jghJfjw?si=_i9NmWhQx8hoeVcm)
 
 ---
 
